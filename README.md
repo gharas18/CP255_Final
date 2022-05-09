@@ -7,7 +7,7 @@ I will be exploring the potential long-term health impacts of transit-oriented d
 
 ## Bay Area Pollution PM2.5 Concentration
 
-From the figure below, it appears that Oakland has the highest concentration of PM2.5 in the 9 county Bay Area. This Figure is included to show the ways in which data can be manpiluated if not normalized.
+From the figure below, it appears that Oakland has the highest concentration of PM2.5 in the 9 county Bay Area. This Figure is included to show the ways in which data can be manpiluated if not normalized. Areas in the South Bay appear to have the lowest levels of concentration of PM2.5.
 
 <img width="904" alt="Screen Shot 2022-05-08 at 5 17 39 PM" src="https://user-images.githubusercontent.com/82476483/167321810-3b7d8e94-8215-4f32-9f4f-8cdcb5005efc.png">
 
