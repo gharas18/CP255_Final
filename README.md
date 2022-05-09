@@ -3,7 +3,7 @@
 ## Problem Statement
 I will be exploring the potential long-term health impacts of transit-oriented development being situated adjacent to freeways in the Bay Area. TOD is a means to increase density and reduce our carbon-footprint through the encouragement away from auto-centric mobility and towards public transit. Due to the nature of BART being directly parallel to a large portion of highway infrastructure, a portion of TOD projects in the Bay will essentially be subsidizing market rate and low-income people to live adjecent to freeways, which have higher concentrations of particulate matter exposure and can lead to asthma and other respiratory complications.
 
-<img width="904" ![Screen Shot 2022-05-05 at 9 19 02 PM](https://user-images.githubusercontent.com/82476483/167476249-f703a9f7-dacf-4017-ad8f-4b42b07a45a4.png)>
+![Screen Shot 2022-05-05 at 9 19 02 PM](https://user-images.githubusercontent.com/82476483/167476249-f703a9f7-dacf-4017-ad8f-4b42b07a45a4.png)
 
 ## Bay Area Pollution PM2.5 Concentration
 
