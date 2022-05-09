@@ -1,6 +1,6 @@
 # Transit Oriented Development: Accessibility & Health Vulnerability
 
-**Authors** Gregory Harasym
+**Authors:** Gregory Harasym, JP Zeigler
 
 ## Problem Statement
 I will be exploring the potential long-term health impacts of transit-oriented development being situated adjacent to freeways in the Bay Area. TOD is a means to increase density and reduce our carbon-footprint through the encouragement away from auto-centric mobility and towards public transit. Due to the nature of BART being directly parallel to a large portion of highway infrastructure, a portion of TOD projects in the Bay will essentially be subsidizing market rate and low-income people to live adjecent to freeways, which have higher concentrations of particulate matter exposure and can lead to asthma and other respiratory complications.
@@ -9,39 +9,36 @@ Specifically, I will be concentrating on the distribution of PM2.5 data in the B
 
 ![Screen Shot 2022-05-05 at 9 19 02 PM](https://user-images.githubusercontent.com/82476483/167476249-f703a9f7-dacf-4017-ad8f-4b42b07a45a4.png)
 
+### Goal
+A goal of this project is spatially analyzing various sources of health, pollution, and transit data. I will explore the ideal euclidian distance of housing from freeways (and BART stops) that limits health impacts and maximizes mobility and accessibility. BART TOD grants currently incentivize placement of residential complexes within 1/2 mile radius from BART stop locations; however, it is common practice to develop TOD's directly adjacent to the station. A major component of TOD's is to increase accessibility, which will have an inevitable decrease on individual car use to reduce pollution effects. I will be using walkshed time and distances to evaluate the proximity of three TOD locations (Balboa Park, MacArthur Commons, & Antioch) to both freeways and their relative proximity to PM2.5 concentration. 
+
 ## Bay Area Pollution PM2.5 Concentration
 
-From the figure below, it appears that Oakland has the highest concentration of PM2.5 in the Bay Area. This Figure is included to show the ways in which data can be manpiluated if not normalized. Areas in the South Bay appear to have the lowest levels of concentration of PM2.5.
+From the figure below, it appears that Oakland has the highest concentration of PM2.5 in the Bay Area. The PM2.5 data is aggregated on a census block level, which can misrepresent the actual concentrations of "hot zones" concentrations. I attempted to normalize the data by square area of the census block polygons, but there was little variation among PM2.5 concentration which created a uniform choropleth map. For that reason, my PM2.5 data will not be normalized by area. Areas in the South Bay appear to have the lowest levels of concentration of PM2.5 and Oakland appears to have the highest concentrations.
 
 <img width="904" alt="Screen Shot 2022-05-08 at 5 17 39 PM" src="https://user-images.githubusercontent.com/82476483/167321810-3b7d8e94-8215-4f32-9f4f-8cdcb5005efc.png">
 
 ### Spatial PM2.5 Distribution Curve
 
-The figure below shows the 5 county distribution of PM2.5 levels on a normal distribution curve.
+The figure below shows the kernel density plot for the 5 county distribution of PM2.5 levels. Contrary to the spatial choropleth map, San Francisco appears to have the highest concentration from a normal distribution perspective. 
 
-<## input figure>
+<## input figure><img width="1011" alt="Screen Shot 2022-05-09 at 4 23 12 PM" src="https://user-images.githubusercontent.com/82476483/167514139-611cdd53-6594-4699-80f2-9b04ed7d397f.png">
 
-### 
 
-### Markdown
+### Map of Study Area
+The map below shows our study area and highlights the three TOD sites, along with the parrallel BART lines. The coordinate reference system was projected to ESPG:3310 and the TOD locations were geocoded using the code below.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<img width="1014" alt="Screen Shot 2022-05-09 at 4 26 29 PM" src="https://user-images.githubusercontent.com/82476483/167514442-7ba07140-8e31-41f4-aa09-5280f4abf1f9.png">
 
-```markdown
-Syntax highlighted code block
+<img width="1047" alt="Screen Shot 2022-05-09 at 4 27 03 PM" src="https://user-images.githubusercontent.com/82476483/167514486-0b709e1a-8116-48be-b090-2bdcc367413a.png">
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Additional Implications
+New developments in California are required to dedicate a percentage of new units to be "affordable". People applying for affordable housing enter a lottery system and are chosen based on priority preference, but are subject to availability. MacArthur Commons and Antioch have approximately 30% of units dedciated as affordable housing units, and Balboa is intended to be 100% affordable. Research has shown that people who are placed at TOD locations utilize BART less frequently than market-rate units who buy into the building. Lower-income residents often have differing transportation needs that require non-linear modes of rail transit. BART is a primary commuter rail system that does not service all areas of the Bay that people may need to commute and travel to. For health and mobility reasons, it is important to think of the implications of obligating lower-income residents to freeway adjacent TOD locations. 
 
-1. Numbered
-2. List
+### Future Considerations
+Future work may include looking into a comparison of prior planning decisions that led to in-equitable health outcomes to lower-income and minority populations. Additionally, I may consider analyzing the level of pollution based on permissable freight routes on highways to see if there is any correlation or areas of concern that are adjecent to proposed BART TOD sites. I will attempt to attain PM2.5 data on a more granular level because the aggregated census block data can be missleading. Also, I will attempt to build a more robust transit accessibility network to better assess which locations may be better sutied to serve lower-income residents.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+
 
