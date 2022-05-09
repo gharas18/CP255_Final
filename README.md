@@ -1,9 +1,17 @@
 # Transit Oriented Development: Accessibility & Health Vulnerability
 
-![pm25_bay_nn_plot](https://user-images.githubusercontent.com/82476483/167321516-32985e1f-6ffb-4807-b357-97b11924a4ad.png)
+## Problem Statement
+I will be exploring the potential long-term health impacts of transit-oriented development being situated adjacent to freeways in the Bay Area. TOD is a means to increase density and reduce our carbon-footprint through the encouragement away from auto-centric mobility and towards public transit. Due to the nature of BART being directly parallel to a large portion of highway infrastructure, a portion of TOD projects in the Bay will essentially be subsidizing market rate and low-income people to live adjecent to freeways, which have higher concentrations of particulate matter exposure and can lead to asthma and other respiratory complications.
+
+<img width="904" ![Screen Shot 2022-05-05 at 9 19 02 PM](https://user-images.githubusercontent.com/82476483/167476249-f703a9f7-dacf-4017-ad8f-4b42b07a45a4.png)>
+
+## Bay Area Pollution PM2.5 Concentration
+
+From the figure below, it appears that Oakland has the highest concentration of PM2.5 in the 9 county Bay Area. This Figure is included to show the ways in which data can be manpiluated if not normalized.
 
 <img width="904" alt="Screen Shot 2022-05-08 at 5 17 39 PM" src="https://user-images.githubusercontent.com/82476483/167321810-3b7d8e94-8215-4f32-9f4f-8cdcb5005efc.png">
 
+##
 
 ### Markdown
 
@@ -27,12 +35,3 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gharas18/CP255_Final/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
