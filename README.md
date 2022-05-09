@@ -1,8 +1,6 @@
 # Transit Oriented Development: Accessibility & Health Vulnerability
 
-You can use the [editor on GitHub](https://github.com/gharas18/CP255_Final/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![pm25_bay_nn_plot](https://user-images.githubusercontent.com/82476483/167321516-32985e1f-6ffb-4807-b357-97b11924a4ad.png)
 
 ### Markdown
 
