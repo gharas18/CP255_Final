@@ -2,6 +2,9 @@
 
 ![pm25_bay_nn_plot](https://user-images.githubusercontent.com/82476483/167321516-32985e1f-6ffb-4807-b357-97b11924a4ad.png)
 
+<img width="904" alt="Screen Shot 2022-05-08 at 5 17 39 PM" src="https://user-images.githubusercontent.com/82476483/167321810-3b7d8e94-8215-4f32-9f4f-8cdcb5005efc.png">
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
