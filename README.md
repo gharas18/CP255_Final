@@ -62,9 +62,21 @@ In this section, I will be exploring various walksheds time and distances and co
 ### 1000' Walkshed Distance from MacArhur Commons TOD - Normalized by sq area
 <img width="1041" alt="Screen Shot 2022-05-09 at 5 35 29 PM" src="https://user-images.githubusercontent.com/82476483/167519972-b0158908-9246-471f-bbd2-3c9f82e23fb0.png">
 
+## Antioch Site Analysis
+Obtaining data on Antioch was a bit more difficult than the other site analysis. Specifically, I could not locate a highway network geojson file for Antioch. Additionally, the Antioch TOD location is more spatially distant from the highway and BART location, which reduces the effectiveness of creating a 300, 500, and 1000' walkshed distance from the TOD centroid location. For those reasons, I am only reporting the below results that show the concentration of PM2.5 in the city of Antioch (normalized by sq. mile) and the 5-20 minute walk intervals. 
+
+### PM2.5 Concentrations Antioch
+<img width="881" alt="Screen Shot 2022-05-09 at 5 37 18 PM" src="https://user-images.githubusercontent.com/82476483/167520127-0ac8c9fc-aeaf-4085-b746-cc66c9d07d7f.png">
+
+### Antioch Walkshed distances from centroid of TOD location - 5, 10, 15, 20 Minute Intervals
+<img width="1083" alt="Screen Shot 2022-05-09 at 5 42 17 PM" src="https://user-images.githubusercontent.com/82476483/167520493-252091ba-3022-4fc3-8b5d-aa3bdb61ba36.png">
+
 
 ## Additional Implications
 New developments in California are required to dedicate a percentage of new units to be "affordable". People applying for affordable housing enter a lottery system and are chosen based on priority preference, but are subject to availability. MacArthur Commons and Antioch have approximately 30% of units dedciated as affordable housing units, and Balboa is intended to be 100% affordable. Research has shown that people who are placed at TOD locations utilize BART less frequently than market-rate units who buy into the building. Lower-income residents often have differing transportation needs that require non-linear modes of rail transit. BART is a primary commuter rail system that does not service all areas of the Bay that people may need to commute and travel to. For health and mobility reasons, it is important to think of the implications of obligating lower-income residents to freeway adjacent TOD locations. 
+
+## Conclusion
+Based on existing literature, TOD site locations should be at a least 500' from adjacent freeways. California faces an unprecedented housing crisis, but special attention should be placed on where desity is being relegated to. BART increases accessibility for select Central Business District commuters, but with the increase in telework procedures, commute and travel patterns may be changing. Densifying neighborhoods where multi-modal transportation alternatives exist, rather than focusing on BART proximity, may produce more sustainable and healthy outcomes for residents.
 
 ## Future Considerations
 Future work may include looking into a comparison of prior planning decisions that led to in-equitable health outcomes to lower-income and minority populations. Additionally, I may consider analyzing the level of pollution based on permissable freight routes on highways to see if there is any correlation or areas of concern that are adjecent to proposed BART TOD sites. I will attempt to attain PM2.5 data on a more granular level because the aggregated census block data can be missleading. Also, I will attempt to build a more robust transit accessibility network to better assess which locations may be better sutied to serve lower-income residents.
