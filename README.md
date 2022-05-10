@@ -47,6 +47,21 @@ In this section, I will be exploring various walksheds time and distances and co
 ### 1000' Walkshed Distance from Balboa Park TOD - Normalized by sq area
 <img width="1033" alt="Screen Shot 2022-05-09 at 5 06 03 PM" src="https://user-images.githubusercontent.com/82476483/167517585-a83cd749-bd50-46cc-97f8-80725aee065b.png">
 
+## MacArhur Commons Site Analysis (Oakland)
+In this section, I will be exploring various walksheds time and distances and contrasting them with existing TOD site locations, PM2.5 concentrations, and freeways.
+
+### MacArhur Commons Walkshed distances from centroid of TOD location - 5, 10, 15, 20 Minute Intervals
+<img width="954" alt="Screen Shot 2022-05-09 at 5 33 34 PM" src="https://user-images.githubusercontent.com/82476483/167519822-09a6e49d-a704-4a1a-bd48-a7ac0939ef6a.png">
+
+### 300' Walkshed Distance from MacArhur Commons TOD - Normalized by sq area
+<img width="1049" alt="Screen Shot 2022-05-09 at 5 34 07 PM" src="https://user-images.githubusercontent.com/82476483/167519864-fe57df4b-c212-45b9-8746-78c16954b4f5.png">
+
+### 500' Walkshed Distance from MacArhur Commons TOD - Normalized by sq area
+<img width="1050" alt="Screen Shot 2022-05-09 at 5 34 34 PM" src="https://user-images.githubusercontent.com/82476483/167519907-b81c8005-faca-47e6-9aff-63298efbd29b.png">
+
+### 1000' Walkshed Distance from MacArhur Commons TOD - Normalized by sq area
+<img width="1041" alt="Screen Shot 2022-05-09 at 5 35 29 PM" src="https://user-images.githubusercontent.com/82476483/167519972-b0158908-9246-471f-bbd2-3c9f82e23fb0.png">
+
 
 ## Additional Implications
 New developments in California are required to dedicate a percentage of new units to be "affordable". People applying for affordable housing enter a lottery system and are chosen based on priority preference, but are subject to availability. MacArthur Commons and Antioch have approximately 30% of units dedciated as affordable housing units, and Balboa is intended to be 100% affordable. Research has shown that people who are placed at TOD locations utilize BART less frequently than market-rate units who buy into the building. Lower-income residents often have differing transportation needs that require non-linear modes of rail transit. BART is a primary commuter rail system that does not service all areas of the Bay that people may need to commute and travel to. For health and mobility reasons, it is important to think of the implications of obligating lower-income residents to freeway adjacent TOD locations. 
